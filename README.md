@@ -39,7 +39,7 @@
 ━━━━━━━━━━━━| Connect Me |━━━━━━━━━━━━</h2>
 <p align="center">
  <a href="https://rishisin999@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
- <a href="www.linkedin.com/in/rishi-singh-172124173"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <a href="https://www.linkedin.com/in/rishi-singh-172124173/"><img alt="lkdn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <!-- <a href="https://www.instagram.com/mohitt_khairnar/"><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://twitter.com/MohitKhairnar12"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> -->
 <a href="https://github.com/rishisin999"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
