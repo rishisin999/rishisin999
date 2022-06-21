@@ -3,7 +3,7 @@
 
 <h2 align="center">
 ━━━━━━━━━━━━| My Interests |━━━━━━━━━━━━</h2>
-  <h3 align="center">Android development | Cloud Computing | Arduino | Embedded Engineering</h3>
+  <h3 align="center">VLSI | Digital Electronics | Arduino | Embedded Engineering</h3>
   <h2 align="center">
 <img src="https://i.imgur.com/4kj19oP.png" />
 
@@ -16,7 +16,7 @@
 ━━━━━━━━━━━━| Tech Skills |━━━━━━━━━━━</h2>
 
  <p align="center"> 
-   <img alt="Android Studio" src=""/>
+
 <!-- <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> -->
 <!--  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
